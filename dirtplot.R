@@ -10,5 +10,5 @@ plot1<-ggplot()+
   ylab(expression('r'[max]*' (Log'[10]*'transformed)'))+
   geom_abline(intercept=-0.0859,slope = -0.20229)+
   ylim(-1.0,1)
-  
+  #limits
   
